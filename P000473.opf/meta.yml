@@ -1,15 +1,16 @@
-id: opecha:P000473
+id: P000473
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG15578
   title: བརྒྱད་སྟོང་པ།
-  volume:
+  author: ''
+  volumes:
     038badda0caa44b5b096d2e7a3911b29:
       image_group_id: I1KG21261
       title: Volume 1 of brgyad stong pa/
       volume_number: 1
       total_pages: 1156
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བརྒྱད་སྟོང་པ།
   author: ''
